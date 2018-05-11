@@ -8,3 +8,17 @@ body {
 .jumbotron { background-color: orange !important;
 
 }
+.footer {
+    position: fixed;
+    
+    width: 100%;
+
+    color: white;
+   text-align: center;
+   height: 50px;
+   
+   /* border-top-style: solid; */
+   bottom: 0;
+
+   
+}
