@@ -1,4 +1,10 @@
 body {
    background-image: url("./assets/jay-wennington-2065-unsplash.jpg");
-   background-color: #cccccc;
+ 
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+.jumbotron { background-color: orange !important;
+
 }
